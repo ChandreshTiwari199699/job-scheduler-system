@@ -68,3 +68,14 @@ The system allows users to:
 cd backend
 npm install
 node index.js
+
+# Go to frontend folder
+cd frontend
+
+# Install dependencies
+npm install
+
+# Start frontend development server
+npm run dev
+
+# Frontend runs on http://localhost:3000
