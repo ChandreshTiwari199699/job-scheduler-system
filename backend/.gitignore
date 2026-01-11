@@ -1,0 +1,22 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Ignore logs
+*.log
+
+# Ignore SQLite database file
+*.sqlite
+*.sqlite3
+
+# Next.js build output
+.next/
+out/
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
